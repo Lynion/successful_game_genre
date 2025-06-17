@@ -1,10 +1,10 @@
 # Judul Project
 Successful Game Sales
 ## Repository Outline
-1. P0M1_dylan_sherwood.ipynb - Notebook yang berisi pengolahan data dengan python
-2. P0M1_dylan_sherwood_dataset.csv - dataset yang digunakan untuk pengerjaan project
-3. P0M1_dylan_sherwood_dataset_clean.csv - dataset yang digunakan untuk visualisasi data
-4. description.md - penjelasan singkat tentang project
+1. notebook.ipynb - Notebook yang berisi pengolahan data dengan python
+2. dataset.csv - dataset yang digunakan untuk pengerjaan project
+3. dataset_clean.csv - dataset yang digunakan untuk visualisasi data
+4. README.md - penjelasan singkat tentang project
 ## Problem Background
 Sebuah studio indie game development bernama JoGames Studio sedang kesusahan mencari penggemar baru. Mereka membutuhkan penggemar baru agar sales game mereka bertambah. Selama ini, mereka membuat game dengan genre yang sangat jarang interestnya di kalangan para penggemar game. Selain itu, karena team mereka kecil, maka durasi pembuatan sebuah game jika membuat game 3D, lumayan lama yaitu 5 tahun. Mereka ingin menambah fan dengan menambah genre game yang mereka keluarkan dalam jangka waktu yang masuk akal.
 ## Project Output
